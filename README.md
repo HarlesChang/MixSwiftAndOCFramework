@@ -2,5 +2,5 @@
 
 > 目標：
 
-* framework 中 OC 與 Swift 可以有 internal method or var
-* framework 之外存取不到這些 internal method or var
+* framework 內，OC 與 Swift 可以有彼此呼叫的 internal method or var
+* framework 外，存取不到這些 internal method or var
